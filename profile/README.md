@@ -29,10 +29,10 @@ For more detailed usage and examples, refer to the [documentation](#).
 
 ## Related Libraries
 
-- **[@telegram.ts/collection](https://github.com/telegramjs/collection)**: Collection utilities for `TelegramsJS`.
-- **[@telegram.ts/types](https://github.com/telegramjs/types)**: `TypeScript` types for Telegram API objects.
-- **[@telegram.ts/emoji](https://github.com/telegramjs/emoji)**: Emoji utilities for `TelegramsJS`.
-- **[@telegram.ts/formatters](https://github.com/telegramjs/formatters)**: Formatters for text and messages in `TelegramsJS`.
+- **[@telegram.ts/collection](https://github.com/telegramsjs/collection)**: Collection utilities for `TelegramsJS`.
+- **[@telegram.ts/types](https://github.com/telegramsjs/types)**: `TypeScript` types for Telegram API objects.
+- **[@telegram.ts/emoji](https://github.com/telegramsjs/emoji)**: Emoji utilities for `TelegramsJS`.
+- **[@telegram.ts/formatters](https://github.com/telegramsjs/formatters)**: Formatters for text and messages in `TelegramsJS`.
 
 ## Contribution
 
