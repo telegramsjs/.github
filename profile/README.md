@@ -25,7 +25,7 @@ or
 yarn add telegramsjs @telegram.ts/collection @telegram.ts/types @telegram.ts/emoji @telegram.ts/formatters
 ```
 
-For more detailed usage and examples, refer to the [documentation](#).
+For more detailed usage and examples, refer to the [documentation](https://telegramsjs.vercel.app).
 
 ## Related Libraries
 
