@@ -1,6 +1,6 @@
 # TelegramsJS Library
 
-![TelegramJS Logo](./public/telegramsjs.png)
+![TelegramJS Logo](https://raw.githubusercontent.com/Sempai-07/Telegramsjs/main/docs/avatar.png)
 
 `TelegramsJS` is a powerful and versatile library for building Telegram bots in `TypeScript`/`JavaScript`. It provides a range of features to simplify bot development, including message handling, file management, and interaction with the Telegram API.
 
